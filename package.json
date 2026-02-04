@@ -1,0 +1,18 @@
+{
+  "name": "games",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "echo \"Run your app with your framework (Next/Vite/etc.)\"",
+    "build": "echo \"Build step depends on your setup\""
+  },
+  "devDependencies": {
+    "typescript": "^5.2.2",
+    "@types/react": "^18.2.28",
+    "@types/react-dom": "^18.2.8"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
